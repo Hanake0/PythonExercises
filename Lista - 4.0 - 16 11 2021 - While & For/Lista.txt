@@ -1,0 +1,37 @@
+1.  Faça um Programa que leia uma lista de 5 números
+    inteiros e mostre-os.
+
+2.  Faça um Programa que leia um lista de 10 números
+    reais e mostre-os na ordem inversa.
+
+3.  Faça um Programa que leia 4 notas, mostre as notas e
+    a média na tela (utilizando lista).
+
+4.  Faça um Programa que leia uma lista de 10 caracteres,
+    e diga quantas consoantes foram lidas.
+    Imprima as consoantes.
+
+5.  Faça um Programa que leia 20 números inteiros e
+    armazene-os numa lista. Armazene os números pares no
+    vetor PAR e os números IMPARES no vetor impar.
+    Imprima as três listas.
+
+6.  Faça um Programa que peça as quatro notas de 10 alunos,
+    calcule e armazene numa lista a média de cada aluno,
+    imprima o número de alunos com média maior ou igual a 7.0.
+
+7.  Faça um Programa que leia uma lista de 5 números inteiros,
+    mostre a soma, a multiplicação e os números.
+
+8.  Faça um Programa que peça a idade e a altura de 5 pessoas,
+    armazene cada informação em sua respectiva lista.
+    Imprima a idade e a altura na ordem inversa a ordem lida.
+
+9.  Faça um Programa que leia uma lista A com 10 números
+    inteiros, calcule e mostre a soma dos quadrados dos
+    elementos da lista.
+
+10. Faça um Programa que leia duas listas com 10 elementos
+    cada. Gere um terceiro vetor de 20 elementos, cujos
+    valores deverão ser compostos pelos elementos
+    intercalados de duas  outras listas.
